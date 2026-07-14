@@ -1,0 +1,13 @@
+{
+  "name": "sample-repo",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "ts-node": "^10.9.2"
+  }
+}
